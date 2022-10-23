@@ -18,4 +18,4 @@ Php Password Hash Generator<br>
 - released in one single php file<br>
 - released under G.P.L. License<br>
 
-<p align="center"><img src="https://github.com/alecos71/password-hash-generator/blob/master/gen_password.png" alt="ScreenShot"></p>
+<p align="center"><img src="https://github.com/tgd1973/password-hash-generator/blob/master/gen_password.png" alt="ScreenShot"></p>
